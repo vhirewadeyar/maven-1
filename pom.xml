@@ -222,4 +222,11 @@
     <maven>3.0.3</maven>
   </prerequisites>
 
+  <repositories>
+
+    <repository>
+      <id>nexus-mvn-repo</id>
+      <url>http://34.70.103.237:8081/repository/nexus-mvn-repo/</url>
+    </repository>
+  </repositories>
 </project>
